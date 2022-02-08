@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @semagkc
+-  I'm Front End Developer & UI Desinger
+-  at YesaSoftware
